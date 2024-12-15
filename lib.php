@@ -120,3 +120,4 @@ class enrol_stripe_membership_plugin extends enrol_plugin {
         }
     }
 }
+
